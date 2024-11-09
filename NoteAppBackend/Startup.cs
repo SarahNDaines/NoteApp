@@ -32,7 +32,6 @@ public class Startup
 
         app.UseRouting();
 
-        // Enable CORS using the policy defined
         app.UseCors("AllowSpecificOrigin");
 
         app.UseEndpoints(endpoints =>
