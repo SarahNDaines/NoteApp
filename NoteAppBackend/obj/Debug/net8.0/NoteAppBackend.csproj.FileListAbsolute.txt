@@ -132,3 +132,4 @@
 /home/sarah/Coding/selophane/NoteApp/NoteAppBackend/obj/Debug/net8.0/NoteAppBackend.pdb
 /home/sarah/Coding/selophane/NoteApp/NoteAppBackend/obj/Debug/net8.0/NoteAppBackend.genruntimeconfig.cache
 /home/sarah/Coding/selophane/NoteApp/NoteAppBackend/obj/Debug/net8.0/ref/NoteAppBackend.dll
+/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/bin/Debug/net8.0/NoteAppBackend.staticwebassets.runtime.json

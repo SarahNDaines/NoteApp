@@ -34,19 +34,22 @@ import '@ionic/react/css/palettes/dark.system.css';
 import './theme/variables.css';
 import NoteList from './components/NoteList';
 import NoteCreate from './components/NoteCreate';
+import { Suspense } from 'react';
 
 setupIonicReact();
 
 const App: React.FC = () => (
   <IonApp>
     <IonReactRouter>
-      <IonRouterOutlet>
-        <Route path="/notes" component={NoteList} exact={true} />
-        <Route path="/create" component={NoteCreate} exact={true} />
-        <Redirect from="/" to="/notes" exact={true} />
-      </IonRouterOutlet>
+      <Suspense fallback={<div>Loading...</div>}>
+        <IonRouterOutlet>
+          <Route path="/notes" component={NoteList} exact={true} />
+          <Route path="/create" component={NoteCreate} exact={true} />
+          <Redirect from="/" to="/notes" exact={true} />
+        </IonRouterOutlet>
+      </Suspense>
     </IonReactRouter>
   </IonApp>
 );
 
-export default App;
+export default App

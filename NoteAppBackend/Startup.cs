@@ -34,6 +34,8 @@ public class Startup
 
         app.UseCors("AllowSpecificOrigin");
 
+        app.UseStaticFiles();
+
         app.UseEndpoints(endpoints =>
         {
             endpoints.MapControllers();
