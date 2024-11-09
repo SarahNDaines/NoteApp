@@ -1,6 +1,4 @@
 /home/sarah/Coding/selophane/NoteApp/NoteAppBackend/bin/Release/net8.0/win-x64/publish/NoteAppBackend.exe
-/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/bin/Release/net8.0/win-x64/publish/appsettings.Development.json
-/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/bin/Release/net8.0/win-x64/publish/appsettings.json
 /home/sarah/Coding/selophane/NoteApp/NoteAppBackend/bin/Release/net8.0/win-x64/publish/NoteAppBackend.dll
 /home/sarah/Coding/selophane/NoteApp/NoteAppBackend/bin/Release/net8.0/win-x64/publish/NoteAppBackend.runtimeconfig.json
 /home/sarah/Coding/selophane/NoteApp/NoteAppBackend/bin/Release/net8.0/win-x64/publish/NoteAppBackend.pdb

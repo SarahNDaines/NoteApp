@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hK90XwAEjUh5qFWDS+tC+DmJk2XuwXD3TPb7RHXtV2o=",
+  "Hash": "uf/jaYiZ1DktgukdOJ/AbKDL/LlVjixsac34RKdtPbE=",
   "Source": "NoteAppBackend",
   "BasePath": "_content/NoteAppBackend",
   "Mode": "Default",
@@ -283,6 +283,25 @@
       "OriginalItemSpec": "wwwroot/assets/index-B_SY1GJM.css"
     },
     {
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/index-BUGzTZVA.js",
+      "SourceId": "NoteAppBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
+      "BasePath": "_content/NoteAppBackend",
+      "RelativePath": "assets/index-BUGzTZVA.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/index-BUGzTZVA.js"
+    },
+    {
       "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/index-kfnpGlHe.js",
       "SourceId": "NoteAppBackend",
       "SourceType": "Discovered",
@@ -300,6 +319,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/assets/index-kfnpGlHe.js"
+    },
+    {
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/index-legacy-Dp7Mr1C0.js",
+      "SourceId": "NoteAppBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
+      "BasePath": "_content/NoteAppBackend",
+      "RelativePath": "assets/index-legacy-Dp7Mr1C0.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/index-legacy-Dp7Mr1C0.js"
     },
     {
       "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/index-legacy-k5dqpUwL.js",

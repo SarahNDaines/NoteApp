@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.FileProviders;
 using NoteAppBackend.Data;
 
 public class Startup
@@ -23,7 +24,7 @@ public class Startup
         services.AddControllers();
     }
 
-    public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+    public void Configure(IApplicationBuilder app, IWebHostEnvironment env, NoteContext context)
     {
         if (env.IsDevelopment())
         {
@@ -34,11 +35,19 @@ public class Startup
 
         app.UseCors("AllowSpecificOrigin");
 
-        app.UseStaticFiles();
+        app.UseStaticFiles(new StaticFileOptions {
+            FileProvider = new PhysicalFileProvider(
+                Path.Combine(env.ContentRootPath, "wwwroot")),
+            RequestPath = ""
+        });
+
+        // Apply migrations to ensure the database schema is up-to-date
+        context.Database.Migrate();
 
         app.UseEndpoints(endpoints =>
         {
             endpoints.MapControllers();
+            endpoints.MapFallbackToFile("/index.html"); // Ensure frontend routing works
         });
     }
 }

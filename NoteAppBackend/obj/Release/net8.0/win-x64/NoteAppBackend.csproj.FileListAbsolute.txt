@@ -1,5 +1,3 @@
-/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/bin/Release/net8.0/win-x64/appsettings.Development.json
-/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/bin/Release/net8.0/win-x64/appsettings.json
 /home/sarah/Coding/selophane/NoteApp/NoteAppBackend/bin/Release/net8.0/win-x64/NoteAppBackend.staticwebassets.runtime.json
 /home/sarah/Coding/selophane/NoteApp/NoteAppBackend/bin/Release/net8.0/win-x64/NoteAppBackend.exe
 /home/sarah/Coding/selophane/NoteApp/NoteAppBackend/bin/Release/net8.0/win-x64/NoteAppBackend.deps.json
