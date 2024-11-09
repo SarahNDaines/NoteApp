@@ -1,0 +1,17 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Create Note</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-item>
+    <ion-label position="stacked">Title</ion-label>
+    <ion-input [(ngModel)]="note.title" placeholder="Enter note title"></ion-input>
+  </ion-item>
+  <ion-item>
+    <ion-label position="stacked">Content</ion-label>
+    <ion-textarea [(ngModel)]="note.content" placeholder="Enter note content"></ion-textarea>
+  </ion-item>
+  <ion-button expand="block" (click)="createNote()">Create Note</ion-button>
+</ion-content>
