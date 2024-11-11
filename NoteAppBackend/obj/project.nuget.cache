@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "y5pALC21LlSmttBGNSK/YMXTaTJvwWhDTcuMs/zh9Snuer349T6vLfK6iRtP2ncfDR6waTeU6Pm+XPkNaXK3+w==",
+  "dgSpecHash": "DxMBoyDpt8s1ufnVKJNNuUnPrGWCCI7TaxsNIZkgSWByZ0jUaRtJu1hq03K8K6RoPrdxHsVVIJf4YiKXbXAOMg==",
   "success": true,
   "projectFilePath": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/NoteAppBackend.csproj",
   "expectedPackageFiles": [
@@ -54,7 +54,10 @@
     "/home/sarah/.nuget/packages/system.reflection.metadata/6.0.1/system.reflection.metadata.6.0.1.nupkg.sha512",
     "/home/sarah/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/home/sarah/.nuget/packages/system.text.encoding.codepages/6.0.0/system.text.encoding.codepages.6.0.0.nupkg.sha512",
-    "/home/sarah/.nuget/packages/system.threading.channels/6.0.0/system.threading.channels.6.0.0.nupkg.sha512"
+    "/home/sarah/.nuget/packages/system.threading.channels/6.0.0/system.threading.channels.6.0.0.nupkg.sha512",
+    "/home/sarah/.nuget/packages/microsoft.netcore.app.runtime.win-x64/8.0.10/microsoft.netcore.app.runtime.win-x64.8.0.10.nupkg.sha512",
+    "/home/sarah/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/8.0.10/microsoft.aspnetcore.app.runtime.win-x64.8.0.10.nupkg.sha512",
+    "/home/sarah/.nuget/packages/microsoft.netcore.app.host.win-x64/8.0.10/microsoft.netcore.app.host.win-x64.8.0.10.nupkg.sha512"
   ],
   "logs": []
 }

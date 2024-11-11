@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4dwi+DFn2lFv+Dp0Yzet9FBldi7itEoZBuis4cqYtqA=",
+  "Hash": "TVVlEQx8+UxjPOt+prZ3PHilWilypx20GatzFm/ZfDg=",
   "Source": "NoteAppBackend",
   "BasePath": "_content/NoteAppBackend",
   "Mode": "Default",
@@ -302,25 +302,6 @@
       "OriginalItemSpec": "wwwroot/assets/index-BUGzTZVA.js"
     },
     {
-      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/index-kfnpGlHe.js",
-      "SourceId": "NoteAppBackend",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
-      "BasePath": "_content/NoteAppBackend",
-      "RelativePath": "assets/index-kfnpGlHe.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/index-kfnpGlHe.js"
-    },
-    {
       "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/index-legacy-Dp7Mr1C0.js",
       "SourceId": "NoteAppBackend",
       "SourceType": "Discovered",
@@ -338,25 +319,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/assets/index-legacy-Dp7Mr1C0.js"
-    },
-    {
-      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/index-legacy-k5dqpUwL.js",
-      "SourceId": "NoteAppBackend",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
-      "BasePath": "_content/NoteAppBackend",
-      "RelativePath": "assets/index-legacy-k5dqpUwL.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/index-legacy-k5dqpUwL.js"
     },
     {
       "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/ionicons-Db5P_u-6.js",
