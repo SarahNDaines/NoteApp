@@ -21,4 +21,12 @@
     <Content Include="wwwroot\**\*" CopyToPublishDirectory="PreserveNewest" />
   </ItemGroup>
 
+  <PropertyGroup>
+    <PrePublishScript>buildCopyFront.sh</PrePublishScript>
+  </PropertyGroup>
+
+  <Target Name="PrePublish" BeforeTargets="Publish">
+    <Exec Command="bash $(PrePublishScript)" />
+  </Target>
+
 </Project>
