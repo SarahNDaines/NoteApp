@@ -13,6 +13,12 @@ cd ../NoteAppBackend
 FRONTEND_DIST="$(pwd)/../NoteAppFrontend/dist"
 BACKEND_WWWROOT="$(pwd)/wwwroot"
 
+# Check if the wwwroot folder exists, if not create it
+if [ ! -d "$BACKEND_WWWROOT" ]; then
+    echo "wwwroot folder does not exist. Creating..."
+    mkdir -p "$BACKEND_WWWROOT"
+fi
+
 # Clear the wwwroot folder
 echo "Clearing the wwwroot folder..."
 rm -rf "$BACKEND_WWWROOT/*"
