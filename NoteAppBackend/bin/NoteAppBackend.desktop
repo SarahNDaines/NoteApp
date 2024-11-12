@@ -1,7 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Type=Application
-Name=NoteAppBackend
-Exec=/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/bin/Release/net8.0/win-x64/publish/NoteAppBackend.exe
-Icon=
-Terminal=false
