@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TVVlEQx8+UxjPOt+prZ3PHilWilypx20GatzFm/ZfDg=",
+  "Hash": "pL58c5CK978xgGXDE86Nuup7KoLTXszDqc/1mk/jzxY=",
   "Source": "NoteAppBackend",
   "BasePath": "_content/NoteAppBackend",
   "Mode": "Default",
@@ -74,12 +74,12 @@
       "OriginalItemSpec": "wwwroot/assets/@ionic-7CQuqmcz.css"
     },
     {
-      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/@ionic-B7bEsD_m.js",
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/@ionic-DHFbGBz5.js",
       "SourceId": "NoteAppBackend",
       "SourceType": "Discovered",
       "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
       "BasePath": "_content/NoteAppBackend",
-      "RelativePath": "assets/@ionic-B7bEsD_m.js",
+      "RelativePath": "assets/@ionic-DHFbGBz5.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -90,15 +90,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/@ionic-B7bEsD_m.js"
+      "OriginalItemSpec": "wwwroot/assets/@ionic-DHFbGBz5.js"
     },
     {
-      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/@ionic-legacy-BYEhZ2sA.js",
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/@ionic-legacy-CfK9fDUU.js",
       "SourceId": "NoteAppBackend",
       "SourceType": "Discovered",
       "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
       "BasePath": "_content/NoteAppBackend",
-      "RelativePath": "assets/@ionic-legacy-BYEhZ2sA.js",
+      "RelativePath": "assets/@ionic-legacy-CfK9fDUU.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/@ionic-legacy-BYEhZ2sA.js"
+      "OriginalItemSpec": "wwwroot/assets/@ionic-legacy-CfK9fDUU.js"
     },
     {
       "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/@stencil-DmVH5m_r.js",
@@ -188,6 +188,44 @@
       "OriginalItemSpec": "wwwroot/assets/axios-legacy-amilGacP.js"
     },
     {
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/core-js-2aa4SRTo.js",
+      "SourceId": "NoteAppBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
+      "BasePath": "_content/NoteAppBackend",
+      "RelativePath": "assets/core-js-2aa4SRTo.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/core-js-2aa4SRTo.js"
+    },
+    {
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/core-js-legacy-B-WjUrFm.js",
+      "SourceId": "NoteAppBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
+      "BasePath": "_content/NoteAppBackend",
+      "RelativePath": "assets/core-js-legacy-B-WjUrFm.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/core-js-legacy-B-WjUrFm.js"
+    },
+    {
       "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/history-CO9DxR3S.js",
       "SourceId": "NoteAppBackend",
       "SourceType": "Discovered",
@@ -226,12 +264,12 @@
       "OriginalItemSpec": "wwwroot/assets/history-legacy-DGXvq0nf.js"
     },
     {
-      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/hoist-non-react-statics-legacy-BPS2hqG7.js",
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/hoist-non-react-statics-DE8cnXzO.js",
       "SourceId": "NoteAppBackend",
       "SourceType": "Discovered",
       "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
       "BasePath": "_content/NoteAppBackend",
-      "RelativePath": "assets/hoist-non-react-statics-legacy-BPS2hqG7.js",
+      "RelativePath": "assets/hoist-non-react-statics-DE8cnXzO.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -242,15 +280,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/hoist-non-react-statics-legacy-BPS2hqG7.js"
+      "OriginalItemSpec": "wwwroot/assets/hoist-non-react-statics-DE8cnXzO.js"
     },
     {
-      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/hoist-non-react-statics-zMeHw7Bn.js",
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/hoist-non-react-statics-legacy-BglP2uz1.js",
       "SourceId": "NoteAppBackend",
       "SourceType": "Discovered",
       "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
       "BasePath": "_content/NoteAppBackend",
-      "RelativePath": "assets/hoist-non-react-statics-zMeHw7Bn.js",
+      "RelativePath": "assets/hoist-non-react-statics-legacy-BglP2uz1.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -261,7 +299,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/hoist-non-react-statics-zMeHw7Bn.js"
+      "OriginalItemSpec": "wwwroot/assets/hoist-non-react-statics-legacy-BglP2uz1.js"
     },
     {
       "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/index-B_SY1GJM.css",
@@ -283,12 +321,12 @@
       "OriginalItemSpec": "wwwroot/assets/index-B_SY1GJM.css"
     },
     {
-      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/index-BUGzTZVA.js",
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/index-DkqTX1dn.js",
       "SourceId": "NoteAppBackend",
       "SourceType": "Discovered",
       "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
       "BasePath": "_content/NoteAppBackend",
-      "RelativePath": "assets/index-BUGzTZVA.js",
+      "RelativePath": "assets/index-DkqTX1dn.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -299,15 +337,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/index-BUGzTZVA.js"
+      "OriginalItemSpec": "wwwroot/assets/index-DkqTX1dn.js"
     },
     {
-      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/index-legacy-Dp7Mr1C0.js",
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/index-legacy-Dx9Fr_NV.js",
       "SourceId": "NoteAppBackend",
       "SourceType": "Discovered",
       "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
       "BasePath": "_content/NoteAppBackend",
-      "RelativePath": "assets/index-legacy-Dp7Mr1C0.js",
+      "RelativePath": "assets/index-legacy-Dx9Fr_NV.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -318,7 +356,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/index-legacy-Dp7Mr1C0.js"
+      "OriginalItemSpec": "wwwroot/assets/index-legacy-Dx9Fr_NV.js"
     },
     {
       "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/ionicons-Db5P_u-6.js",
@@ -397,12 +435,12 @@
       "OriginalItemSpec": "wwwroot/assets/isarray-legacy-BGs-Eh0z.js"
     },
     {
-      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/path-to-regexp-BYYKAstd.js",
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/path-to-regexp-BvmCzZHH.js",
       "SourceId": "NoteAppBackend",
       "SourceType": "Discovered",
       "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
       "BasePath": "_content/NoteAppBackend",
-      "RelativePath": "assets/path-to-regexp-BYYKAstd.js",
+      "RelativePath": "assets/path-to-regexp-BvmCzZHH.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -413,15 +451,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/path-to-regexp-BYYKAstd.js"
+      "OriginalItemSpec": "wwwroot/assets/path-to-regexp-BvmCzZHH.js"
     },
     {
-      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/path-to-regexp-legacy-I16inXIa.js",
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/path-to-regexp-legacy-87yRj-y_.js",
       "SourceId": "NoteAppBackend",
       "SourceType": "Discovered",
       "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
       "BasePath": "_content/NoteAppBackend",
-      "RelativePath": "assets/path-to-regexp-legacy-I16inXIa.js",
+      "RelativePath": "assets/path-to-regexp-legacy-87yRj-y_.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -432,15 +470,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/path-to-regexp-legacy-I16inXIa.js"
+      "OriginalItemSpec": "wwwroot/assets/path-to-regexp-legacy-87yRj-y_.js"
     },
     {
-      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/polyfills-legacy-Wol3Cjrr.js",
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/polyfills-legacy-CEbtIr4x.js",
       "SourceId": "NoteAppBackend",
       "SourceType": "Discovered",
       "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
       "BasePath": "_content/NoteAppBackend",
-      "RelativePath": "assets/polyfills-legacy-Wol3Cjrr.js",
+      "RelativePath": "assets/polyfills-legacy-CEbtIr4x.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -451,15 +489,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/polyfills-legacy-Wol3Cjrr.js"
+      "OriginalItemSpec": "wwwroot/assets/polyfills-legacy-CEbtIr4x.js"
     },
     {
-      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/prop-types-C_7A2VsA.js",
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/prop-types-legacy-kQ8fnoPe.js",
       "SourceId": "NoteAppBackend",
       "SourceType": "Discovered",
       "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
       "BasePath": "_content/NoteAppBackend",
-      "RelativePath": "assets/prop-types-C_7A2VsA.js",
+      "RelativePath": "assets/prop-types-legacy-kQ8fnoPe.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -470,15 +508,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/prop-types-C_7A2VsA.js"
+      "OriginalItemSpec": "wwwroot/assets/prop-types-legacy-kQ8fnoPe.js"
     },
     {
-      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/prop-types-legacy-ZI5pP3lx.js",
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/prop-types-vcJig_QS.js",
       "SourceId": "NoteAppBackend",
       "SourceType": "Discovered",
       "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
       "BasePath": "_content/NoteAppBackend",
-      "RelativePath": "assets/prop-types-legacy-ZI5pP3lx.js",
+      "RelativePath": "assets/prop-types-vcJig_QS.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -489,15 +527,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/prop-types-legacy-ZI5pP3lx.js"
+      "OriginalItemSpec": "wwwroot/assets/prop-types-vcJig_QS.js"
     },
     {
-      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/react-C_hyh_TD.js",
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/react-D0u_5vsQ.js",
       "SourceId": "NoteAppBackend",
       "SourceType": "Discovered",
       "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
       "BasePath": "_content/NoteAppBackend",
-      "RelativePath": "assets/react-C_hyh_TD.js",
+      "RelativePath": "assets/react-D0u_5vsQ.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -508,15 +546,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/react-C_hyh_TD.js"
+      "OriginalItemSpec": "wwwroot/assets/react-D0u_5vsQ.js"
     },
     {
-      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/react-dom-legacy-DG4ly1oW.js",
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/react-dom-CvySD2E8.js",
       "SourceId": "NoteAppBackend",
       "SourceType": "Discovered",
       "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
       "BasePath": "_content/NoteAppBackend",
-      "RelativePath": "assets/react-dom-legacy-DG4ly1oW.js",
+      "RelativePath": "assets/react-dom-CvySD2E8.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -527,15 +565,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/react-dom-legacy-DG4ly1oW.js"
+      "OriginalItemSpec": "wwwroot/assets/react-dom-CvySD2E8.js"
     },
     {
-      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/react-dom-qxCWUHbn.js",
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/react-dom-legacy-DkAh8kgr.js",
       "SourceId": "NoteAppBackend",
       "SourceType": "Discovered",
       "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
       "BasePath": "_content/NoteAppBackend",
-      "RelativePath": "assets/react-dom-qxCWUHbn.js",
+      "RelativePath": "assets/react-dom-legacy-DkAh8kgr.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -546,15 +584,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/react-dom-qxCWUHbn.js"
+      "OriginalItemSpec": "wwwroot/assets/react-dom-legacy-DkAh8kgr.js"
     },
     {
-      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/react-legacy-vTwK2srV.js",
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/react-legacy-CSllcs69.js",
       "SourceId": "NoteAppBackend",
       "SourceType": "Discovered",
       "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
       "BasePath": "_content/NoteAppBackend",
-      "RelativePath": "assets/react-legacy-vTwK2srV.js",
+      "RelativePath": "assets/react-legacy-CSllcs69.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -565,15 +603,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/react-legacy-vTwK2srV.js"
+      "OriginalItemSpec": "wwwroot/assets/react-legacy-CSllcs69.js"
     },
     {
-      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/react-router-C6w8WE_1.js",
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/react-router-BWHjXp63.js",
       "SourceId": "NoteAppBackend",
       "SourceType": "Discovered",
       "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
       "BasePath": "_content/NoteAppBackend",
-      "RelativePath": "assets/react-router-C6w8WE_1.js",
+      "RelativePath": "assets/react-router-BWHjXp63.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -584,15 +622,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/react-router-C6w8WE_1.js"
+      "OriginalItemSpec": "wwwroot/assets/react-router-BWHjXp63.js"
     },
     {
-      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/react-router-dom-CUorlbu9.js",
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/react-router-dom-BJl36qyJ.js",
       "SourceId": "NoteAppBackend",
       "SourceType": "Discovered",
       "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
       "BasePath": "_content/NoteAppBackend",
-      "RelativePath": "assets/react-router-dom-CUorlbu9.js",
+      "RelativePath": "assets/react-router-dom-BJl36qyJ.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -603,15 +641,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/react-router-dom-CUorlbu9.js"
+      "OriginalItemSpec": "wwwroot/assets/react-router-dom-BJl36qyJ.js"
     },
     {
-      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/react-router-dom-legacy-D-f7vSdW.js",
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/react-router-dom-legacy-CMgZ8RGA.js",
       "SourceId": "NoteAppBackend",
       "SourceType": "Discovered",
       "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
       "BasePath": "_content/NoteAppBackend",
-      "RelativePath": "assets/react-router-dom-legacy-D-f7vSdW.js",
+      "RelativePath": "assets/react-router-dom-legacy-CMgZ8RGA.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -622,15 +660,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/react-router-dom-legacy-D-f7vSdW.js"
+      "OriginalItemSpec": "wwwroot/assets/react-router-dom-legacy-CMgZ8RGA.js"
     },
     {
-      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/react-router-legacy-DBlsgYY_.js",
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/react-router-legacy-B2uWSPoJ.js",
       "SourceId": "NoteAppBackend",
       "SourceType": "Discovered",
       "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
       "BasePath": "_content/NoteAppBackend",
-      "RelativePath": "assets/react-router-legacy-DBlsgYY_.js",
+      "RelativePath": "assets/react-router-legacy-B2uWSPoJ.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -641,7 +679,45 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/react-router-legacy-DBlsgYY_.js"
+      "OriginalItemSpec": "wwwroot/assets/react-router-legacy-B2uWSPoJ.js"
+    },
+    {
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/regenerator-runtime-6TBRv6ay.js",
+      "SourceId": "NoteAppBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
+      "BasePath": "_content/NoteAppBackend",
+      "RelativePath": "assets/regenerator-runtime-6TBRv6ay.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/regenerator-runtime-6TBRv6ay.js"
+    },
+    {
+      "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/regenerator-runtime-legacy-Dtg0VtOf.js",
+      "SourceId": "NoteAppBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/",
+      "BasePath": "_content/NoteAppBackend",
+      "RelativePath": "assets/regenerator-runtime-legacy-Dtg0VtOf.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/regenerator-runtime-legacy-Dtg0VtOf.js"
     },
     {
       "Identity": "/home/sarah/Coding/selophane/NoteApp/NoteAppBackend/wwwroot/assets/resolve-pathname-D6XOvX2q.js",
